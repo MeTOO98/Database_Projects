@@ -1,6 +1,8 @@
 
 create Database university 
 
+use university
+
 create table instructor ( 
 is_id int primary key identity (1,1) ,
 inadd nvarchar(50) check(inadd in('Alex','Cairo')),
@@ -33,6 +35,7 @@ location nvarchar (100),
 capacity int check(capacity <20),
 constraint c4 primary key(cid,lid),
 constraint c5 foreign key (cid) references course (cid) on delete cascade on update cascade )
+
 
 
 
