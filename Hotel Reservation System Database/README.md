@@ -13,11 +13,11 @@ This project provides a comprehensive database solution for a hotel reservation 
 
 [cite_start]The database is named `Hotel` and is designed to ensure operational efficiency and data integrity[cite: 6, 8]. The system's core functions include:
 
-* [cite_start]Storing and managing customer contact information[cite: 11].
-* [cite_start]Maintaining a room inventory with pricing and status tracking[cite: 12].
-* [cite_start]Processing reservations with check-in and check-out functionality[cite: 13].
-* [cite_start]Recording payments linked to reservations[cite: 14].
-* [cite_start]Managing staff information and assignments[cite: 15].
+* Storing and managing customer contact information[cite: 11].
+* Maintaining a room inventory with pricing and status tracking[cite: 12].
+* Processing reservations with check-in and check-out functionality[cite: 13].
+* Recording payments linked to reservations[cite: 14].
+* Managing staff information and assignments[cite: 15].
 * [cite_start]Preventing double-booking of rooms[cite: 16].
 * [cite_start]Tracking the status of reservations throughout the customer journey[cite: 17].
 
